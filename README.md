@@ -1,5 +1,5 @@
 # Logbook_Dataset
-A dataset of climbing logbook comments for active learning and text classification. Each entry is a comment associsted with the ascent of a route. 
+A dataset of climbing logbook comments for active learning and text classification. Each entry is a comment associated with the ascent of a route. 
 The text of the comment and some additional metadata are provided. A small number (304) of the comments are labelled to indicate if they contain 'beta' for the route. Additional comments have been manually labelled by human annotators. These include comments that were queried by an active learner to be used as training data and comments that were annotated to be used as unseen test data
 
 ### Schema
